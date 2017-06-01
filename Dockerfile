@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:7
 
 MAINTAINER davidkassa <david.kassa@gmail.com>
 
